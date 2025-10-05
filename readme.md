@@ -1,1 +1,1 @@
-[![User interface, new installation page for WordPress](https://cdn.imgurl.ir/uploads/v025112_wordpress_new_ui_poster.jpg)]
+[![User interface, new installation page for WordPress](wordpress new ui poster.jpg)]
